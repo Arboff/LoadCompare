@@ -24,7 +24,7 @@ How to Use:
     
 IMPORTANT: THE ORDER THAT YOU INSERT THE LOADS IS ALWAYS TMW FIRST, MGL SPREADSHEET SECOND. OTHERWISE RESULTS WILL NOT BE ACCURATE!!<br><br>
   
-![results image](https://i.ibb.co/7p4qC5Q/desktop.png)
+![results image](https://i.ibb.co/3Y2j618/desktop.png)
 
 GITHUB: https://github.com/ARBOFF<br>
     INSTAGRAM: https://instagram.com/arboff.1337<br>
