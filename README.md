@@ -23,8 +23,13 @@ How to Use:
      5. After the program is done, check the summary.
     
 IMPORTANT: THE ORDER THAT YOU INSERT THE LOADS IS ALWAYS TMW FIRST, MGL SPREADSHEET SECOND. OTHERWISE RESULTS WILL NOT BE ACCURATE!!<br><br>
-
-![alt text](https://i.ibb.co/KswJhkD/desktop.png)
+  
+<img
+src=“https://i.ibb.co/KswJhkD/desktop.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 GITHUB: https://github.com/ARBOFF<br>
     INSTAGRAM: https://instagram.com/arboff.1337<br>
